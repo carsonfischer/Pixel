@@ -1,0 +1,12 @@
+body {
+   background-color:lightsteelblue;
+
+}
+
+#canvas {
+    background-color:white;
+    height:200px;
+    width:200px;
+    margin:auto;
+    grid-template: repeat(20,1fr)/repeat(20,1fr);
+}
